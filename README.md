@@ -21,4 +21,6 @@ Update database
 ```
 dotnet ef database update
 ```
-This will create 2 tables, Products and Customers, just to test if it's working or not.
+This will create 2 tables, Products, and Customers, just to test if it's working or not.
+
+I'm including my application.db (sqlite file) and appsettings.json in case you need it. They don't contain any valuable data. 
